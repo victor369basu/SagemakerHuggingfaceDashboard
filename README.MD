@@ -208,7 +208,9 @@ Quicksight is a cloud-native, serverless BI service provided by AWS.
 
 The EDA dashboard is visualised over pre-processed medical transcript data. The analysis focuses on the distribution of medical speciality, their subgroups, the relation between them, word cloud for transcription context etc.
 <img align="center" alt="eda" src="./assets/eda.png"/><br>
+
 The Model Performance dashboard is visualised for model prediction over the validation medical transcription dataset. The analysis focuses on the correctness of Model prediction; the difference between the distribution of target class and predicted class; Accuracy, Precision, Recall and f1-score of the model over validation set etc.
+
 <img align="center" alt="model" src="./assets/model.png"/><br>
 
 ## The calculated field for Correctness Graph
